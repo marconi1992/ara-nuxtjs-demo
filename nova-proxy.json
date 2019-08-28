@@ -1,0 +1,9 @@
+{
+  "locations": [
+    {
+      "path": "/",
+      "host": "http://localhost:8000",
+      "modifyResponse": true
+    }
+  ]
+}
